@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/JohannesEbke/go-imap-sync"
+	"github.com/jbuchbinder/go-imap-sync"
 	"github.com/howeyc/gopass"
 )
 
